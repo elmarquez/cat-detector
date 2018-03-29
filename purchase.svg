@@ -2,7 +2,7 @@
   xmlns:xlink="http://www.w3.org/1999/xlink"
   contentScriptType="text/ecmascript"
   contentStyleType="text/css"
-  height="45"
+  height="60"
   preserveAspectRatio="xMidYMid meet"
   version="1.0"
   width="150"
@@ -11,7 +11,7 @@
       <feGaussianBlur in="SourceAlpha" stdDeviation="2"/> <!-- stdDeviation is how much to blur -->
       <feOffset dx="1" dy="1" result="offsetblur"/> <!-- how much to offset -->
       <feComponentTransfer>
-        <feFuncA type="linear" slope="0.3"/> <!-- slope is the opacity of the shadow -->
+        <feFuncA type="linear" slope="0.2"/> <!-- slope is the opacity of the shadow -->
       </feComponentTransfer>
       <feMerge>
         <feMergeNode/> <!-- this contains the offset blurred image -->
@@ -29,5 +29,8 @@
     <g font-size="15" font-weight="bold" font-family="Helvetica Neue,Helvetica,DejaVu Sans,Verdana,Geneva,sans-serif" fill="#fff">
         <text x="71" y="25" fill="#010101" fill-opacity=".3" style="text-anchor:middle;">Purchase</text>
         <text x="70" y="24" id="tText" style="text-anchor:middle;">Purchase</text>
+    </g>
+    <g font-size="12" font-family="Helvetica Neue,Helvetica,DejaVu Sans,Verdana,Geneva,sans-serif" font-weight="bold">
+        <text x="70" y="55" fill="#999" id="tText" style="text-anchor:middle;">Payments by Stripe</text>
     </g>
 </svg>
