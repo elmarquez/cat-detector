@@ -36,7 +36,7 @@ these channels, nor do we warranty the correctness of information provided
 within these venues.
 
 <a href="https://freshbits.io">
-  <img src="purchase-padded.svg" alt="Purchase">
+  <img src="purchase.svg" alt="Purchase">
 </a>
 
 
