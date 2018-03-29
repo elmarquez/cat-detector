@@ -1,8 +1,8 @@
 ![](supported.svg)
 
 
-Cat State Detector
-==================
+Cat State Detector (Community Edition)
+======================================
 
 This repo demonstrates how you can sell products and services directly from your
 GitHub account using **[freshbits](https://freshbits.io)**. For this example,
@@ -12,17 +12,17 @@ library you'll be able to tell whether your cat:
 * Is alive or dead
 * Wants to go outside or just force you to hold the door open
 
-![](cat.jpg)
 
-### Professional Edition & Support Services
+## Professional Edition & Support Services
 
-Like what you see? Buy our **professional edition**! Get more features and access to our library of more than 50 extensions:
+Like what you see? Buy our [professional edition](https://freshbits.io/example/cat-state-detector-pro)! Get more features and
+access to our library of more than 50 extensions:
 
 * AI meme generator adds funny captions to your cat photos automatically
 * Cat-blaster cross-posts automatically to every social network you've ever signed up for
 * And much more ...
 
-Save time and money by purchasing one year of **professional support**.
+Save time and money by purchasing one year of [professional support](https://freshbits.io/example/cat-state-detector-pro/support).
 
 * Priority chat, email and phone support
 * Starter templates and advanced examples
@@ -30,8 +30,13 @@ Save time and money by purchasing one year of **professional support**.
 
 ![Purchase](purchase.svg)
 
-Community support is available for free through our Gitter and Google Groups channels. We do not monitor these channels, nor do we warranty the correctness of information provided within these venues.
+Community support is available for free through our [Gitter](https://gitter.io)
+and [Google Groups](https://groups.google.com) channels. We do not monitor
+these channels, nor do we warranty the correctness of information provided
+within these venues.
 
+
+## Documentation
 
 ### Build & Run
 
