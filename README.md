@@ -1,5 +1,5 @@
 <a href="https://freshbits.io">
-  <img src="supported-light-gray.svg" alt="Supported Open Source">
+  <img src="supported-dark-gray.svg" alt="Supported Open Source">
 </a>
 
 
