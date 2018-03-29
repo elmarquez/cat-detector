@@ -1,4 +1,4 @@
-![](supported-orangered.svg)
+![](supported-light-gray.svg)
 
 
 Cat State Detector
