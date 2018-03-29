@@ -2,7 +2,7 @@
   xmlns:xlink="http://www.w3.org/1999/xlink"
   contentScriptType="text/ecmascript"
   contentStyleType="text/css"
-  height="120"
+  height="80"
   preserveAspectRatio="xMidYMid meet"
   version="1.0"
   width="150"
@@ -24,13 +24,13 @@
         <stop stop-opacity=".1" stop-color="#Fbb" offset="0"/>
         <stop stop-opacity=".1" offset="1"/>
     </linearGradient>
-    <rect rx="5" y="9" fill="#0366d6" width="140" height="40" class="sWidth" style="filter:url(#dropshadow)"/>
-    <rect rx="5" y="9" fill="url(#a)" width="140" height="40" class="sWidth"/>
+    <rect rx="5" fill="#0366d6" width="140" height="40" class="sWidth" style="filter:url(#dropshadow)"/>
+    <rect rx="5" fill="url(#a)" width="140" height="40" class="sWidth"/>
     <g font-size="15" font-weight="bold" font-family="Helvetica Neue,Helvetica,DejaVu Sans,Verdana,Geneva,sans-serif" fill="#fff">
-        <text x="71" y="35" fill="#010101" fill-opacity=".3" style="text-anchor:middle;">Purchase</text>
-        <text x="70" y="34" id="tText" style="text-anchor:middle;">Purchase</text>
+        <text x="71" y="25" fill="#010101" fill-opacity=".3" style="text-anchor:middle;">Purchase</text>
+        <text x="70" y="24" id="tText" style="text-anchor:middle;">Purchase</text>
     </g>
     <g font-size="12" font-family="Helvetica Neue,Helvetica,DejaVu Sans,Verdana,Geneva,sans-serif" font-weight="bold">
-        <text x="70" y="65" fill="#999" id="tText" style="text-anchor:middle;">Payments by Stripe</text>
+        <text x="70" y="55" fill="#999" id="tText" style="text-anchor:middle;">Payments by Stripe</text>
     </g>
 </svg>
