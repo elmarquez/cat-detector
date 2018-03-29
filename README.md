@@ -34,7 +34,7 @@ these channels, nor do we warranty the correctness of information provided
 within these venues.
 
 <a href="https://freshbits.io">
-![Purchase](purchase.svg)
+  <img src="purchase.svg" alt="Purchase">
 </a>
 
 ## Documentation
